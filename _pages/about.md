@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD Candidate at Johns Hopkins University in the Cell Molecular Developmental Biology and Biophysics program with the Ludington Lab. I graduated from University of California San Diego and Scripps Institute of Oceanography with a double bachelors in Microbiology and Mathematics - Applied Sciences and a Masters in Biology. Microbial communities are the invisible backbone of every ecosystem, and protecting the diversity and balance of these ecosystems is critical for the protection of all life. I am passionate about understanding microbial communities from an interdisciplinary systems approach. I enjoy using a combination of molecular biology, data science, and bioinformatics in my research to link classical population ecology models with evolution and microbial communities. To understand how microbial communities react to climate change and pollution, we must first understand the natural physical context in which these organisms evolved to accomodate. 
+I am a PhD Candidate at Johns Hopkins University in the Cell Molecular Developmental Biology and Biophysics program with the Ludington Lab. Microbial communities are the invisible backbone of every ecosystem, and protecting the diversity and balance of these ecosystems is critical for the protection of all life. I am passionate about understanding microbial communities from an interdisciplinary systems approach, using a combination of molecular biology, data science, and bioinformatics in my research to link classical population ecology models with evolution and microbial communities. To understand how microbial communities react to climate change and pollution, we must first understand the natural physical context in which these organisms evolved to accomodate. 
 
 A passion for tiny life in the big ocean.
 ======
@@ -18,7 +18,12 @@ As a graduate student and researcher, I aim to apply my skills to improve our un
 
 ![image](/images/foggy_monterey.webp)
 
-Currently, I am studying cyanobacteria _Syneccochus elongatus_ as a model organism for algal blooms. I aim to identify the essential gene set facillitates blooms and its transcriptional regulation to better understand the timing of blooms in response to environmental simulus. To emulate environemntal conditions and anthropgenic influences, I am constructing custom bioreactors (a photosynthetic turbidostat), and the first high-throughput cyanobacterial growth apparatus for 96-well formats. Current prediction models do not incorporate the fundemental biology of these photosynthetic microbes. My project aims to link the evolved biological response of cyanobacteria to their environment to improve prediction models.
+Currently, I am studying cyanobacteria _Syneccochus elongatus_ as a model organism for algal blooms. I aim to identify the essential gene set facillitates blooms and its transcriptional regulation to better understand the timing of blooms in response to environmental simulus. To emulate environemntal conditions and anthropgenic influences, I am constructing 
+
+- Custom bioreactors (a photosynthetic turbidostat)
+- The first high-throughput cyanobacterial growth apparatus for 96-well formats.
+
+Current prediction models do not incorporate the fundemental biology of these photosynthetic microbes. My project aims to link the evolved biological response of cyanobacteria to their environment to improve prediction models.
 
 ![image](/images/calvert-cliffs-state-park-1.jpg)
 

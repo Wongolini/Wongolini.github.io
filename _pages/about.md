@@ -8,7 +8,9 @@ redirect_from:
 ---
 📖 I am a PhD Candidate at Johns Hopkins University in the Cell Molecular Developmental Biology and Biophysics program with the Ludington Lab. 
 
-🔬 I am passionate about understanding microbial communities from an interdisciplinary systems approach, using a combination of molecular biology, data science, and bioinformatics in my research to link classical population ecology models with evolution and microbial communities. 
+🔬 I am passionate about understanding microbial communities from an interdisciplinary systems approach with an emphasis on marine ecosystems.
+
+👨🏻‍🔬 My thesis project focuses on microbial ecology, metabolism, and genetics of harmful algal bloom causing cyanobacteria.
 
 
 

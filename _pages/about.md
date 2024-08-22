@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Candidate Johns Hopkins University & Carnegie Science"
+title: "Hello there"
 author_profile: true
 redirect_from: 
   - /about/

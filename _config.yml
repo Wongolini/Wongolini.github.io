@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Nick Wong"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD Candidate at Johns Hopkins University and the Carnegie Institute in the Ludington Lab. I graduated from University of California San Diego and Scripps Institute of Oceanography with a double bachelors in Microbiology and Mathematics - Applied Sciences and a Masters in Biology. I am passionate about understanding microbial communities and ecosystems from an interdisciplinary systems approach. I also love the sea, and I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems.
+  bio              : "I am a PhD Candidate at Johns Hopkins University and the Carnegie Institute in the Ludington Lab. 
 
 To understand biological phenomena, I believe we must understand the physical context in which biological mechanisms evolved to accomodate. Currently, I am studying cyanobacteria Syneccochus elongatus as a model organism for algal blooms. I aim to identify the essential gene set facillitates blooms and its transcriptional regulation to better understand the timing of blooms in response to environmental simulus. To emulate environemntal conditions and anthropgenic influences, I am constructing custom bioreactors (a photosynthetic turbidostat), and the first high-throughput cyanobacterial growth apparatus for 96-well formats."
   location         : "Earth"

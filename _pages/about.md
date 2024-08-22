@@ -10,7 +10,8 @@ I graduated from University of California San Diego and Scripps Institute of Oce
 
 A passion for tiny life in the big ocean.
 ======
-I love the sea, and I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems.
+I love the sea, and I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems. Microalgae produce 20% of the world's total oxygen, and play pivotal roles in global nitrogen and carbon cycles. Their productivity allows for higher ecosystem function. However while essential, these microalgae are the culprit for harmful algal blooms typically occuring after heavy rainfall or a upwelling events. These blooms, while natural, are exacerbated by anthropgenic climate warming, and eutrophication from urban, industrial and agricultural run off.
+
 Currently, I am studying cyanobacteria Syneccochus elongatus as a model organism for algal blooms. I aim to identify the essential gene set facillitates blooms and its transcriptional regulation to better understand the timing of blooms in response to environmental simulus. To emulate environemntal conditions and anthropgenic influences, I am constructing custom bioreactors (a photosynthetic turbidostat), and the first high-throughput cyanobacterial growth apparatus for 96-well formats.
 
 ![image](/images/lajolla_1.jpg)

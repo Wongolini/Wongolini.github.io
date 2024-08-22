@@ -16,7 +16,7 @@ redirect_from:
 
 A passion for tiny life in the big ocean.
 ======
-I love the sea. Having lived by an ocean all my life, I care deeply for coastal environemnts and the abundance of life that call it home. I think a lot about the delicate balance humanity often oversteps with the ocean and the importance of ensuring future generations can enjoy the beauty of the sea and all she has to offer. Microbes form the scaffold for marine ecosystems, and ensuring the stability of marine microecosystems is a critical part of conservation. 
+I love the sea. Having lived by an ocean all my life, I care deeply for coastal environemnts and the abundance of life that call it home. I think a lot about the delicate balance humanity often oversteps with the ocean and the importance of ensuring future generations can enjoy the beauty of the sea and all she has to offer. Microbes form the scaffold of marine ecosystems, and ensuring the stability of marine microecosystems is a critical part of conservation. 
 
 ![image](/images/lajolla_1.jpg)
 

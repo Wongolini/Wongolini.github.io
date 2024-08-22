@@ -6,7 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD Candidate at Johns Hopkins University in the Cell Molecular Developmental Biology and Biophysics program with the Ludington Lab. Microbial communities are the invisible backbone of every ecosystem, and protecting the diversity and balance of these ecosystems is critical for the protection of all life. I am passionate about understanding microbial communities from an interdisciplinary systems approach, using a combination of molecular biology, data science, and bioinformatics in my research to link classical population ecology models with evolution and microbial communities. To understand how microbial communities react to climate change and pollution, we must first understand the natural physical context in which these organisms evolved to accomodate. 
+📖 I am a PhD Candidate at Johns Hopkins University in the Cell Molecular Developmental Biology and Biophysics program with the Ludington Lab. 
+
+🔬 I am passionate about understanding microbial communities from an interdisciplinary systems approach, using a combination of molecular biology, data science, and bioinformatics in my research to link classical population ecology models with evolution and microbial communities. 
+
+
 
 A passion for tiny life in the big ocean.
 ======
@@ -23,7 +27,7 @@ Currently, I am studying cyanobacteria _Syneccochus elongatus_ as a model organi
 - Custom bioreactors (a photosynthetic turbidostat)
 - The first high-throughput cyanobacterial growth apparatus for 96-well formats.
 
-Current prediction models do not incorporate the fundemental biology of these photosynthetic microbes. My project aims to link the evolved biological response of cyanobacteria to their environment to improve prediction models.
+Current prediction models do not incorporate the fundemental biology of these photosynthetic microbes. My project aims to link the evolved biological response of cyanobacteria to their environment to improve prediction models. To understand how microbial communities react to climate change and pollution, we must first understand the natural physical context in which these organisms evolved to accomodate. 
 
 ![image](/images/calvert-cliffs-state-park-1.jpg)
 

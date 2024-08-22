@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I graduated from University of California San Diego and Scripps Institute of Oceanography with a double bachelors in Microbiology and Mathematics - Applied Sciences and a Masters in Biology. I am passionate about understanding microbial communities and ecosystems from an interdisciplinary systems approach. I also love the sea, and I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems.
+I graduated from University of California San Diego and Scripps Institute of Oceanography with a double bachelors in Microbiology and Mathematics - Applied Sciences and a Masters in Biology. Microbial communities are the invisible backbone of every ecosystem, and protecting the diversity and balance of these ecosystems is critical for the protection of all life. I am passionate about understanding microbial communities and ecosystems from an interdisciplinary systems approach. I enjoy using a combination of molecular biology, data science, and bioinformatics in my research to link classical population ecology models with evolution and microbial communities. To understand these microbes, we must understand the physical context in which these organisms evolved to accomodate. 
 
 A passion for tiny life in the big ocean.
 ======
-I am passionate about understanding microbial communities and ecosystems from an interdisciplinary systems approach. I also love the sea, and I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems.
-To understand biological phenomena, I believe we must understand the physical context in which biological mechanisms evolved to accomodate. Currently, I am studying cyanobacteria Syneccochus elongatus as a model organism for algal blooms. I aim to identify the essential gene set facillitates blooms and its transcriptional regulation to better understand the timing of blooms in response to environmental simulus. To emulate environemntal conditions and anthropgenic influences, I am constructing custom bioreactors (a photosynthetic turbidostat), and the first high-throughput cyanobacterial growth apparatus for 96-well formats.
+I love the sea, and I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems.
+Currently, I am studying cyanobacteria Syneccochus elongatus as a model organism for algal blooms. I aim to identify the essential gene set facillitates blooms and its transcriptional regulation to better understand the timing of blooms in response to environmental simulus. To emulate environemntal conditions and anthropgenic influences, I am constructing custom bioreactors (a photosynthetic turbidostat), and the first high-throughput cyanobacterial growth apparatus for 96-well formats.
 
 ![image](/images/lajolla_1.jpg)
 

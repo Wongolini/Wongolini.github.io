@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I graduated from University of California San Diego and Scripps Institute of Oceanography with a double bachelors in Microbiology and Mathematics - Applied Sciences and a Masters in Biology. Microbial communities are the invisible backbone of every ecosystem, and protecting the diversity and balance of these ecosystems is critical for the protection of all life. I am passionate about understanding microbial communities and ecosystems from an interdisciplinary systems approach. I enjoy using a combination of molecular biology, data science, and bioinformatics in my research to link classical population ecology models with evolution and microbial communities. To understand these microbes, we must understand the physical context in which these organisms evolved to accomodate. 
+I graduated from University of California San Diego and Scripps Institute of Oceanography with a double bachelors in Microbiology and Mathematics - Applied Sciences and a Masters in Biology. Microbial communities are the invisible backbone of every ecosystem, and protecting the diversity and balance of these ecosystems is critical for the protection of all life. I am passionate about understanding microbial communities from an interdisciplinary systems approach. I enjoy using a combination of molecular biology, data science, and bioinformatics in my research to link classical population ecology models with evolution and microbial communities. To understand these microbes, we must understand the physical context in which these organisms evolved to accomodate. 
 
 A passion for tiny life in the big ocean.
 ======

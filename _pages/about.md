@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-📖 I am a PhD Candidate at Johns Hopkins University in the Cell Molecular Developmental Biology and Biophysics program with the Ludington Lab. 
+📖 I am a PhD Candidate at Carnegie Science || Johns Hopkins University in the Cell Molecular Developmental Biology and Biophysics program with the Ludington Lab. 
 
 🔬 I am passionate about understanding microbial communities from an interdisciplinary systems approach with an emphasis on marine ecosystems.
 

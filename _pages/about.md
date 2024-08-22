@@ -14,7 +14,7 @@ I love the sea. Having lived by an ocean all my life, I care deeply for coastal 
 
 ![image](/images/lajolla_1.jpg)
 
-As a graduate student and researcher, I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems. Microalgae produce 20% of the world's total oxygen, and play pivotal roles in global nitrogen and carbon cycles. However while essential, these microalgae are the culprit for harmful algal blooms. These blooms, while natural, are exacerbated by anthropgenic climate warming, and eutrophication from urban, industrial and agricultural run off devestating the ecosystem resulting in massive abiotic kill-zones.
+As a graduate student and researcher, I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems. Harmful algal blooms, while natural, are exacerbated by anthropgenic climate warming, and eutrophication from urban, industrial and agricultural run off devestating the ecosystem resulting in massive abiotic kill-zones. My project aims to identify how these organisms can quickly shift their metabolism from dormancy to supporting fast growing populations.
 
 ![image](/images/foggy_monterey.webp)
 

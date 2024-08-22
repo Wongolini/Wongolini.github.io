@@ -10,11 +10,11 @@ I am a PhD Candidate at Johns Hopkins University in the Cell Molecular Developme
 
 A passion for tiny life in the big ocean.
 ======
-I love the sea. Having lived by an ocean all my life, I care deeply for coastal environemnts and the abundance of life that call it home. I think a lot about the delicate balance humanity often oversteps with the ocean and the importance of ensuring future generations can enjoy the beauty of the sea and all she has to offer. During my undergraduate, I learned that microbes form the scaffold for marine ecosystems, and ensuring the stability of marine microecosystems is a critical part of conservation. 
+I love the sea. Having lived by an ocean all my life, I care deeply for coastal environemnts and the abundance of life that call it home. I think a lot about the delicate balance humanity often oversteps with the ocean and the importance of ensuring future generations can enjoy the beauty of the sea and all she has to offer. Microbes form the scaffold for marine ecosystems, and ensuring the stability of marine microecosystems is a critical part of conservation. 
 
 ![image](/images/lajolla_1.jpg)
 
-As a graduate student and researcher, I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems. Microalgae produce 20% of the world's total oxygen, and play pivotal roles in global nitrogen and carbon cycles. Their productivity allows for higher ecosystem function. However while essential, these microalgae are the culprit for harmful algal blooms typically occuring after heavy rainfall or a upwelling events. These blooms, while natural, are exacerbated by anthropgenic climate warming, and eutrophication from urban, industrial and agricultural run off. These blooms cost tens to hundreds of millions of dollars of damages to state and local governments, and are devestating to the ecosystem resulting in massive abiotic kill-zones.
+As a graduate student and researcher, I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems. Microalgae produce 20% of the world's total oxygen, and play pivotal roles in global nitrogen and carbon cycles. However while essential, these microalgae are the culprit for harmful algal blooms. These blooms, while natural, are exacerbated by anthropgenic climate warming, and eutrophication from urban, industrial and agricultural run off devestating the ecosystem resulting in massive abiotic kill-zones.
 
 ![image](/images/foggy_monterey.webp)
 

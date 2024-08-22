@@ -16,7 +16,7 @@ I love the sea. Having lived by an ocean all my life, I care deeply for coastal 
 
 As a graduate student and researcher, I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems. Harmful algal blooms, while natural, are exacerbated by anthropgenic climate warming and eutrophication. My project aims to identify how these organisms can quickly shift their metabolism from dormancy to supporting fast growing populations.
 
-![image](/images/foggy_monterey.webp)
+![image](/images/foggy_monterey.jpeg)
 
 Currently, I am studying cyanobacteria _Syneccochus elongatus_ as a model organism for algal blooms. I aim to identify the essential gene set facillitates blooms and its transcriptional regulation to better understand the timing of blooms in response to environmental simulus. To emulate environemntal conditions and anthropgenic influences, I am constructing 
 

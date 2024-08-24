@@ -1,6 +1,6 @@
 ---
 title: 'High-throughput algae growth incubator'
-date: 2012-08-14
+date: 2023-09-26
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - High-throughput

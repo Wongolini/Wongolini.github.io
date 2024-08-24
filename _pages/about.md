@@ -10,7 +10,7 @@ redirect_from:
 
 🔬 I am passionate about understanding microbial communities from an interdisciplinary systems approach with an emphasis on marine ecosystems.
 
-👨🏻‍🔬 My thesis project focuses on microbial ecology, metabolism, and genetics of harmful algal bloom causing cyanobacteria.
+👨🏻‍🔬 My thesis project focuses on microbial ecology, metabolism, and genetics of harmful algal bloom caused by cyanobacteria.
 
 
 

@@ -16,7 +16,22 @@ Because the turbidostat will have at least 6 independent bioreactor vessels, I n
 
 
 <video style="max-width: 25%; height: auto;" controls>
-  <source src="images/multi_plex_TSL2951.mp4" type="video/mp4">
+  <source src="/images/multi_plex_TSL2951.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+## Part List
+- M4 Feather Express ATSAMD51 by Adafruit
+- TSL2951
+- TCA9548A
+- 780 nm laser diode
+
+## Code Depedencies 
+- Circuit Python
+  - Circuit Python Libraries:
+  - TSL2951
+  - TCA9548A
+ 
+- PySerial
+- CustomTkinter
+- Matplotlib

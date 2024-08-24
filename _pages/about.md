@@ -24,7 +24,7 @@ As a graduate student and researcher, I aim to apply my skills to improve our un
 
 ![image](/images/chl_global_1.png)
 
-
+![image](/images/world_chlorophyll.jpg)
 
 Currently, I am studying cyanobacteria _Syneccochus elongatus_ as a model organism for algal blooms. I aim to identify the essential gene set facillitates blooms and its transcriptional regulation to better understand the timing of blooms in response to environmental simulus. To emulate environemntal conditions and anthropgenic influences, I am constructing 
 

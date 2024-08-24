@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate lab"
 permalink: 
 venue: "University of California San Diego"
-sessions: Spring quarter 2021, Summer Session 1 & 2
+date: 2024-03-27 2021
 location: "San Diego, CA"
 ---
 

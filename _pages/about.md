@@ -15,7 +15,7 @@ redirect_from:
 👨🏻‍🔬 My thesis project focuses on microbial ecology, metabolism, and genetics of harmful algal bloom caused by cyanobacteria.
 
 
-<span style="color: #16537e; font-family: Optima; font-size: 2em; font-weight: bold"> A passion for tiny life in the big ocean.</span>
+<span style="color: #16537e; font-family: Optima; font-size: 1.2em; font-weight: bold"> A passion for tiny life in the big ocean.</span>
 =====
 I love the sea. Having lived by an ocean all my life, I care deeply for coastal environemnts and the abundance of life that call it home. I think a lot about the delicate balance humanity often oversteps with the ocean and the importance of ensuring future generations can enjoy the beauty of the sea and all she has to offer. Microbes form the scaffold of marine ecosystems, and ensuring the stability of marine microecosystems is a critical part of conservation. 
 

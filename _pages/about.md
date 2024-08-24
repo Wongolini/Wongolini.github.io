@@ -63,5 +63,5 @@ Scientific academic research is primarily publically funded in the spirit of inc
 <span style="color: #000000; font-family: Optima; font-size: 1.5em; font-weight: bold"> Outreach and Teaching</span>
 
 <img src="/images/outreach_1.jpg" hspace="10" align="right" height="200" width="250">
-I am passionate about education and exposure to STEM for the youth. The Baltimore school system is very diverse, with ~54% identifying as an underrepresented minority in the academic setting. I work with BioEYES scientific outreach group and MICROBES citizizen science project to teach about the unseen roles bacteria fulfill in our ecosystems in K-12 public schools. 
+I am passionate about education and exposure to STEM for the youth. The Baltimore school system is very diverse, with ~54% identifying as an underrepresented minority in the academic setting. I work with BioEYES scientific outreach group and [BUGGS](https://bugssonline.org/parent-student/at-home-microbiology/) citizen science project to teach about the unseen roles bacteria fulfill in our ecosystems in K-12 public schools. 
 

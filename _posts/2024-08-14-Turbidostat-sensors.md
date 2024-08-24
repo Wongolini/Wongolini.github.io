@@ -15,7 +15,7 @@ Cyanobacteria are photosynthetic and not only absorb light at most of the visibl
 Because the turbidostat will have at least 6 independent bioreactor vessels, I need to multiplex driving multiple TSL2951 devices. Because they use i2c addressing, I use the [TCA9548A](https://www.adafruit.com/product/2717) mutliplexor. If you are using circuit_python, you will want to use a microcontroller that uses a ATSAMD51 ARM processor due to issues with the TCA9548A library not compatible with other boards. I've linked 6 sensors together to a [M4 Metro Express Featherwing](https://www.adafruit.com/product/3857) from Adafruit. The board is connected to my laptop which is receiving a data stream through PySerial and writing the data to a csv file in realtime. This data is then plotted live using my custom [GUI](https://wongolini.github.io/posts/Turbidostat-UI/) 
 
 
-<video style="max-width: 25%; height: auto;" controls>
+<video style="max-width: 25%; height: auto; margin-right: 20px;" controls>
   <source src="/images/multi_plex_TSL2951.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

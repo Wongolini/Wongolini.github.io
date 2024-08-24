@@ -58,7 +58,6 @@ Scientific academic research is primarily publically funded in the spirit of inc
 
 
 <br />
-<br />
 
 <span style="color: #000000; font-family: Optima; font-size: 1.5em; font-weight: bold"> Outreach and Teaching</span>
 

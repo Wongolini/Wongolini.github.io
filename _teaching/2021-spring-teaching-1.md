@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate lab"
 permalink: 
 venue: "University of California San Diego"
-date: 2021-03-27 
+date: 2020-03-27 
 location: "San Diego, CA"
 ---
 

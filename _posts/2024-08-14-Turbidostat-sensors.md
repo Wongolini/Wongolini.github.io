@@ -14,7 +14,7 @@ Cyanobacteria are photosynthetic and not only absorb light at most of the visibl
 
 ## Multiplexing sensors
 
-<div style="float: left; margin-right: 20px; max-width: 50%;">
+<div style="float: left; margin-right: 20px; max-width: 30%;">
   <video style="width: 100%; height: auto;" controls>
     <source src="/images/multi_plex_TSL2951.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -25,6 +25,7 @@ Because the turbidostat will have at least 6 independent bioreactor vessels, I n
 
 
 
+---
 
 ## Part List
 - [M4 Metro Express Featherwing](https://www.adafruit.com/product/3857)

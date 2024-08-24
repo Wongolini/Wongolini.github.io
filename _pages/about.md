@@ -37,6 +37,8 @@ Current prediction models do not incorporate the fundemental biology of these ph
 
 
 ![image](/images/world_chlorophyll.jpg)
+
+
 ![image](/images/pacifica_narrow.png)
 
 

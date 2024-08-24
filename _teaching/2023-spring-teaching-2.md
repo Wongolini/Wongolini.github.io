@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "AS.020.153 General Biology Lab Teaching Assistant"
 collection: teaching
 type: "General Biology Lab"
 permalink: /teaching/2015-spring-teaching-1

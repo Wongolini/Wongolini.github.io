@@ -15,7 +15,7 @@ redirect_from:
 👨🏻‍🔬 My thesis project focuses on microbial ecology, metabolism, and genetics of harmful algal bloom caused by cyanobacteria.
 
 
-<span style="color: #16537e; font-family: Optima; font-size: 1.2em; font-weight: bold"> A passion for tiny life in the big ocean.</span>
+<span style="color: #16537e; font-family: Optima; font-size: 1.5em; font-weight: bold"> A passion for tiny life in the big ocean.</span>
 =====
 I love the sea. Having lived by an ocean all my life, I care deeply for coastal environemnts and the abundance of life that call it home. I think a lot about the delicate balance humanity often oversteps with the ocean and the importance of ensuring future generations can enjoy the beauty of the sea and all she has to offer. Microbes form the scaffold of marine ecosystems, and ensuring the stability of marine microecosystems is a critical part of conservation. 
 
@@ -43,9 +43,16 @@ Current prediction models do not incorporate the fundemental biology of these ph
 ![image](/images/pacifica_narrow.png)
 
 
+I acquired a double bachelors in Microbiology and Mathematics - Applied Sciences with the intent to study microbial ecosystems from a systems approach. I develop experiments that can produce high resolution data for constructing models within the framework of the natural world. 
 
 
-<span style="color: #16537e; font-family: Optima; font-size: 1.2em; font-weight: bold"> Broader impacts</span>
+
+<span style="color: #16537e; font-family: Optima; font-size: 1.5em; font-weight: bold"> Broader impacts</span>
 =====
+
+
+<span style="color: #000000; font-family: Optima; font-size: 1.5em; font-weight: bold"> Scientific Advocacy</span>
+
+Academic research is fueled by a philosophy of know
 
 Outreach in the Baltimore Public School System

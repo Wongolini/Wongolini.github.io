@@ -10,9 +10,9 @@ tags:
 
 Optical density measurements are crucial to measuring bacterial growth. These measurements are made by shooting a beam of light at a specific wavelength, typically OD600, that the bacteria cannot absorb, but diffract and scatter. This results in a decrease of light penetration as the light travels through the tube. The penetration of light is measured by a sensor, and the decrease in light detection compared against the bacterial density inside the tube. Naturally there should be a linear relationship between the amount of light blocked by the bacteria density and density of bacteria.
 
-Cyanobacteria are photosynthetic and not only absorb light at most of the visible spectrum, but also release a photon in a phenomena called epifluoresence. This means choosing a wavelength of light in the visible spectrumn would not only be disrupted by absorbance, but also emission of a new photon at a different wavelength. Because I am using a simple photodiode sensor that does not filter a specific wavelength of light, I must choose a laser diode that shoots an near infrared 780 nm light beam since UV could photo-bleach or harm the cyanobacteria. The optical sensor I chose is the [TSL2951](https://cdn-shop.adafruit.com/datasheets/TSL25911_Datasheet_EN_v1.pdf) from adafruit to make things easy for myself. It uses i2c addressing to control and comes with a nice circuit_python library to make coding easy.
+Cyanobacteria are photosynthetic and not only absorb light at most of the visible spectrum, but also release a photon in a phenomena called epifluoresence. This means choosing a wavelength of light in the visible spectrumn would not only be disrupted by absorbance, but also emission of a new photon at a different wavelength. Because I am using a simple photodiode sensor that does not filter a specific wavelength of light, I must choose a laser diode that shoots an near infrared 780 nm light beam since UV could photo-bleach or harm the cyanobacteria. The optical sensor I chose is the [TSL2951](https://cdn-shop.adafruit.com/datasheets/TSL25911_Datasheet_EN_v1.pdf) from adafruit to make things easy for myself. It uses i2c addressing to control and comes with a nice [circuit_python](https://circuitpython.org/) library to make coding easy.
 
-Because the turbidostat will have at least 6 independent bioreactor vessels, I need to multiplex driving multiple TSL2951 devices. Because they use i2c addressing, I use the TCA9548A mutliplexor. If you are using circuit_python, you will want to use a microcontroller that uses a ATSAMD51 ARM processor due to issues with the TCA9548A library not compatible with other boards. I've linked 6 sensors together to a [M4 Metro Express Featherwing](https://www.adafruit.com/product/3857) from Adafruit. The board is connected to my laptop which is receiving a data stream through PySerial and writing the data to a csv file in realtime. This data is then plotted live using my custom [GUI](https://wongolini.github.io/posts/Turbidostat-UI/) 
+Because the turbidostat will have at least 6 independent bioreactor vessels, I need to multiplex driving multiple TSL2951 devices. Because they use i2c addressing, I use the [TCA9548A](https://www.adafruit.com/product/2717) mutliplexor. If you are using circuit_python, you will want to use a microcontroller that uses a ATSAMD51 ARM processor due to issues with the TCA9548A library not compatible with other boards. I've linked 6 sensors together to a [M4 Metro Express Featherwing](https://www.adafruit.com/product/3857) from Adafruit. The board is connected to my laptop which is receiving a data stream through PySerial and writing the data to a csv file in realtime. This data is then plotted live using my custom [GUI](https://wongolini.github.io/posts/Turbidostat-UI/) 
 
 
 <video style="max-width: 25%; height: auto;" controls>
@@ -21,9 +21,9 @@ Because the turbidostat will have at least 6 independent bioreactor vessels, I n
 </video>
 
 ## Part List
-- M4 Feather Express ATSAMD51 by Adafruit
-- TSL2951
-- TCA9548A
+- [M4 Metro Express Featherwing](https://www.adafruit.com/product/3857)
+- [TSL2951](https://www.adafruit.com/product/1980)
+- [TCA9548A](https://www.adafruit.com/product/2717)
 - 780 nm laser diode
 
 ## Code Depedencies 

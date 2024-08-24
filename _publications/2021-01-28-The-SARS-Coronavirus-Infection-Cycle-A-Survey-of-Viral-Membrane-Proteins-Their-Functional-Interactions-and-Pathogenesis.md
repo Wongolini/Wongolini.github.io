@@ -2,7 +2,7 @@
 title: "The SARS-Coronavirus Infection Cycle: A Survey of Viral Membrane Proteins, Their Functional Interactions and Pathogenesis"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-12-22-The-SARS-Coronavirus-Infection-Cycle-A-Survey-of-Viral-Membrane-Proteins-Their-Functional-Interactions-and-Pathogenesis.md
+permalink: /publication/2021-01-28-The-SARS-Coronavirus-Infection-Cycle-A-Survey-of-Viral-Membrane-Proteins-Their-Functional-Interactions-and-Pathogenesis.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-01-28
 journal: 'IJMS'

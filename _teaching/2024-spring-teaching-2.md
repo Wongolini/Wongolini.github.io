@@ -1,7 +1,7 @@
 ---
 title: "AS.020.315 Biochemistry Project Lab Teaching Assistant"
 collection: teaching
-type: "Lab"
+type: "Undergraduate Lab"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Johns Hopkins University"
 date: 2024-01-25

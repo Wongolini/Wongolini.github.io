@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<span style="color: #16537e; font-family: Optima; font-size: 2em; font-weight: bold"> About me.</span>
+
 📖 I am a PhD Candidate at Carnegie Science & Johns Hopkins University in the Cell Molecular Developmental Biology and Biophysics program with the Ludington Lab. 
 
 🔬 I am passionate about understanding microbial communities from an interdisciplinary systems approach with an emphasis on marine ecosystems.

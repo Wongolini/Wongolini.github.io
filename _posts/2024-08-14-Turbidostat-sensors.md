@@ -14,6 +14,6 @@ Cyanobacteria are photosynthetic and not only absorb light at most of the visibl
 
 
 <video width="100%" controls>
-  <source src="/images/multiplex_TSL2951.mp4" type="video/mp4">
+  <source src="/images/multi_plex_TSL2951.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

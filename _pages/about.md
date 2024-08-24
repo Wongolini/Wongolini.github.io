@@ -53,6 +53,9 @@ I acquired a double bachelors in Microbiology and Mathematics - Applied Sciences
 
 <span style="color: #000000; font-family: Optima; font-size: 1.5em; font-weight: bold"> Scientific Advocacy</span>
 
-Academic research is fueled by a philosophy of know
+Scientific academic research is primarily publically funded in the spirit of increasing humankind's understanding of the natural world and to spark innovation to improve global society. It is also the source of graduate training for millions of aspiring doctorates in the USA. The grants that fuel academic research is at the mercy of the national government. Unfortunately, environmental research is severely underfunded with grants awarded primarily from the NSF, NOAA and DOE, with the average grant incapable of supporting even a small lab. I joined the American Institute for Biological Sciences representing Carnegie Science on Capitol Hill to advocate for an increase in NSF funding. Funding for innovative solutions against the climate crisis should not be extremely competetive. I spoke about my research with congressional staffers in the Senate and House for Maryland and California and emphasized the need to fund environmental projects to protect America's natural resources.
+
+![image](/images/IMG_3178.png)
+
 
 Outreach in the Baltimore Public School System

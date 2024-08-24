@@ -19,9 +19,12 @@ A passion for tiny life in the big ocean.
 I love the sea. Having lived by an ocean all my life, I care deeply for coastal environemnts and the abundance of life that call it home. I think a lot about the delicate balance humanity often oversteps with the ocean and the importance of ensuring future generations can enjoy the beauty of the sea and all she has to offer. Microbes form the scaffold of marine ecosystems, and ensuring the stability of marine microecosystems is a critical part of conservation. 
 
 
-
 ![image](/images/lajolla_1.jpg)
+
+
 As a graduate student and researcher, I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems. Harmful algal blooms, while natural, are exacerbated by anthropgenic climate warming and eutrophication. My project aims to identify how these organisms can quickly shift their metabolism from dormancy to supporting fast growing populations.
+
+
 ![image](/images/PXL_20221219_004405648.PORTRAIT.jpg)
 
 
@@ -31,6 +34,8 @@ Currently, I am studying cyanobacteria _Syneccochus elongatus_ as a model organi
 - The first high-throughput cyanobacterial growth apparatus for 96-well formats.
 
 Current prediction models do not incorporate the fundemental biology of these photosynthetic microbes. My project aims to link the evolved biological response of cyanobacteria to their environment to improve prediction models. To understand how microbial communities react to climate change and pollution, we must first understand the natural physical context in which these organisms evolved to accomodate. 
+
+
 ![image](/images/world_chlorophyll.jpg)
 ![image](/images/pacifica_narrow.png)
 

@@ -27,8 +27,7 @@ Because the turbidostat will have at least 6 independent bioreactor vessels, I n
 - 780 nm laser diode
 
 ## Code Depedencies 
-- Circuit Python
-  - Circuit Python Libraries:
+- Circuit Python and Circuit Python libraries
   - TSL2951
   - TCA9548A
  

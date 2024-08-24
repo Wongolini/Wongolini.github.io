@@ -13,7 +13,5 @@ Optical density measurements are crucial to measuring bacterial growth. These me
 Cyanobacteria are photosynthetic and not only absorb light at most of the visible spectrum, but also release a photon in a phenomena called epifluoresence. This means choosing a wavelength of light in the visible spectrumn would not only be disrupted by absorbance, but also emission of a new photon at a different wavelength. Because I am using a simple photodiode sensor that does not filter a specific wavelength of light, I must choose a laser diode that shoots an near infrared 780 nm light beam since UV could photo-bleach or harm the cyanobacteria. The optical sensor I chose is the [TSL2951](https://cdn-shop.adafruit.com/datasheets/TSL25911_Datasheet_EN_v1.pdf) from adafruit to make things easy for myself. It uses i2c addressing to control and comes with a nice circuit_python library to make coding easy.
 
 
-<video width="100%" controls>
-  <source src="/images/multi_plex_TSL2951.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Uploading multi_plex_TSL2951.mp4…
+

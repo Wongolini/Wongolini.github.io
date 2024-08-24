@@ -17,7 +17,5 @@ Course material:
 - The microbiome and the Built Environment
 - Bioinformatics
 
-
-
 Led lab lectures, discussions and guided laboratory techniques. Graded lab reports and exams.
 

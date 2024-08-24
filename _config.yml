@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD Candidate at Johns Hopkins University and the Carnegie Institute in the Ludington Lab." 
   location         : "Baltimore, MD"
-  employer         : "Johns Hopkins University \n Carnegie Science"
+  employer         : "Johns Hopkins University
+                      Carnegie Science"
   uri              : # URL
   email            : "nwong@carnegiescience.edu" 
 

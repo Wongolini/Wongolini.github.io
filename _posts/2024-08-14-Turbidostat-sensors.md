@@ -21,6 +21,7 @@ $$
     <img src="/images/OD_drawing.png" >
 </div>
 
+
 Optical density measurements are crucial to measuring bacterial growth. These measurements are made by shooting light at a specific wavelength, typically 600 nm, through the test tube that the bacteria cannot absorb, but diffract and scatter resulting in decreased detectable transmission from an optical sensor on the other end of the tube. Naturally there should be a linear relationship between the amount of light blocked by the bacteria cells.
 
 Cyanobacteria are photosynthetic and not only absorb light at most of the visible spectrum, but also release a photon in a phenomena called epifluoresence. Because I only have a simple light sensor that detects over a broad range of light, the chosen wavelength of light must not be in the photosynthetically active range. Hence the standard wavelength to measure cyanobacterial turbidity is 780 nm because it is near infrared and cannot be absorbed by photosynthetic pigments. I opted to use a 780 nm laser diode because simple LEDs have too broad of a wavelength distribution that bleed into the photosynthetic range. The optical sensor I chose is the [TSL2591](https://cdn-shop.adafruit.com/datasheets/TSL25911_Datasheet_EN_v1.pdf) from adafruit to make things easy for myself. It uses i2c addressing to control and comes with a nice [circuit_python](https://circuitpython.org/) library to make coding easy.

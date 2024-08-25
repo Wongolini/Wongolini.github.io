@@ -11,6 +11,7 @@ Optical density (OD) describes the transmission of light through a highly blocki
 
 $$
 OD = -log_{10}(T)
+
 T=10^{-OD}
 $$
 

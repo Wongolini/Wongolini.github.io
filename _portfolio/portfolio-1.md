@@ -1,6 +1,6 @@
 ---
 title: "AIBS Algal Bloom Handout"
-excerpt: "Advocacy to increase in NSF funding for environmental research and conservation"
+excerpt: "Advocacy to increase NSF funding for environmental research and conservation"
 collection: portfolio
 ---
 

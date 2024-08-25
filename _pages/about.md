@@ -15,9 +15,9 @@ redirect_from:
   }
 </style>
 
-# test
 
-<span style="color: #16537e; font-family: Optima; font-size: 2em; font-weight: bold"> About me.</span>
+<span style="color: #16537e; font-family: Optima; font-size: 1.5em; font-weight: bold"> About me.</span>
+=====
 
 📖 I am a PhD Candidate at Carnegie Science & Johns Hopkins University in the Cell Molecular Developmental Biology and Biophysics program with the Ludington Lab. 
 

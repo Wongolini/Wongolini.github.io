@@ -7,9 +7,9 @@ tags:
   - spectrophotometry
   - adsorbance
 ---
-Optical density measurements are crucial to measuring bacterial growth. These measurements are made by shooting light at a specific wavelength, 
-Optical density (OD) describes the transmission of light through a highly blocking optical filter, in this case bacteria, such that transmission ($$T$$) is very small. OD is mathematically expressed as the negative $$log_{10}(T)$$ where transmission is a physical value between 0 and 1.
-Typically OD is measured by shooting a specific wavelength through the test tube that the bacteria cannot absorb, but diffract and scatter resulting in decreased detectable transmission from an optical sensor on the other end of the tube. Naturally there should be a linear relationship between the amount of light blocked by the bacteria cells.
+Optical density (OD) measurements are crucial to measuring bacterial growth. 
+OD describes the transmission ($$T$$) of light through a highly blocking optical filter, in this case bacteria, such that ($$T$$) of light through the medium is very small. OD is mathematically expressed as the negative $$log_{10}(T)$$ where transmission is a physical value between 0 and 1.
+Typically OD is measured by shooting a specific wavelength through the test tube that the bacteria cannot absorb, but diffract and scatter resulting in decreased detectable transmission from an optical sensor on the other end of the tube. Naturally there should be a linear relationship between the amount of light blocked by the number of bacteria cells in the medium.
 
 $$
 \displaylines{

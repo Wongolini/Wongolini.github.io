@@ -2,7 +2,7 @@
 title: "The SARS-Coronavirus Infection Cycle: A Survey of Viral Membrane Proteins, Their Functional Interactions and Pathogenesis"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-01-28-The-SARS-Coronavirus-Infection-Cycle-A-Survey-of-Viral-Membrane-Proteins-Their-Functional-Interactions-and-Pathogenesis.md
+permalink: /publications/2021-01-28-The-SARS-Coronavirus-Infection-Cycle-A-Survey-of-Viral-Membrane-Proteins-Their-Functional-Interactions-and-Pathogenesis.md
 excerpt: 'In this extensive review, we document the most recent information on Coronavirus proteins, with emphasis on the membrane proteins in the Coronaviridae family. We include information on their structures, functions, and participation in pathogenesis.'
 date: 2021-01-28
 journal: 'IJMS'

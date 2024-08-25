@@ -6,14 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-  .page-about {
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-</style>
 
 
 <span style="color: #16537e; font-family: Optima; font-size: 1.5em; font-weight: bold"> About me.</span>

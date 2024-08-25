@@ -4,4 +4,4 @@ excerpt: "Advocacy for increase in NSF funding for environmental research and co
 collection: portfolio
 ---
 
-<object data="/files/AIBS_handout.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/files/AIBS_handout.pdf" width="1500" height="2000" type='application/pdf'></object>

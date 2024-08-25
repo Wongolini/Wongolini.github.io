@@ -10,9 +10,11 @@ tags:
 Optical density (OD) describes the transmission of light through a highly blocking optical filter such that transmission ($T$) is very small. OD is mathematically expressed as the negative $log_{10}(T)$ where transmission is a physical value between 0 and 1.
 
 $$
+\displaylines{
 OD = -log_{10}(T)
-
+\\\
 T=10^{-OD}
+}
 $$
 
 Optical density measurements are crucial to measuring bacterial growth. These measurements are made by shooting light at a specific wavelength, typically 600 nm, that the bacteria cannot absorb, but diffract and scatter resulting in decreased transmission. The transmission is measured by a sensor, and the decrease in light detection compared against the bacterial density inside the tube. Naturally there should be a linear relationship between the amount of light blocked by the bacteria density and density of bacteria.

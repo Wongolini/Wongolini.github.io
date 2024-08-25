@@ -7,8 +7,13 @@ tags:
   - spectrophotometry
   - adsorbance
 ---
+Optical density (OD) describes the transmission of light through a highly blocking optical filter such that transmission ($T$) is very small. OD is mathematically expressed as the negative $log_{10}(T)$ where transmission is a physical value between 0 and 1.
 
-Optical density measurements are crucial to measuring bacterial growth. These measurements are made by shooting a beam of light at a specific wavelength, typically OD600, that the bacteria cannot absorb, but diffract and scatter. This results in a decrease of light penetration as the light travels through the tube. The penetration of light is measured by a sensor, and the decrease in light detection compared against the bacterial density inside the tube. Naturally there should be a linear relationship between the amount of light blocked by the bacteria density and density of bacteria.
+$OD = -log_{10}(T)$
+<br/>
+$T=10^{-OD}$
+
+Optical density measurements are crucial to measuring bacterial growth. These measurements are made by shooting light at a specific wavelength, typically 600 nm, that the bacteria cannot absorb, but diffract and scatter resulting in decreased transmission. The transmission is measured by a sensor, and the decrease in light detection compared against the bacterial density inside the tube. Naturally there should be a linear relationship between the amount of light blocked by the bacteria density and density of bacteria.
 
 Cyanobacteria are photosynthetic and not only absorb light at most of the visible spectrum, but also release a photon in a phenomena called epifluoresence. This means choosing a wavelength of light in the visible spectrumn would not only be disrupted by absorbance, but also emission of a new photon at a different wavelength. Because I am using a simple photodiode sensor that does not filter a specific wavelength of light, I must choose a laser diode that shoots an near infrared 780 nm light beam since UV could photo-bleach or harm the cyanobacteria. The optical sensor I chose is the [TSL2951](https://cdn-shop.adafruit.com/datasheets/TSL25911_Datasheet_EN_v1.pdf) from adafruit to make things easy for myself. It uses i2c addressing to control and comes with a nice [circuit_python](https://circuitpython.org/) library to make coding easy.
 

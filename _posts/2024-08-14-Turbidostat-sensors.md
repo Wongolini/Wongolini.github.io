@@ -23,7 +23,7 @@ $$
 
 Optical density measurements are crucial to measuring bacterial growth. These measurements are made by shooting light at a specific wavelength, typically 600 nm, that the bacteria cannot absorb, but diffract and scatter resulting in decreased transmission. The transmission is measured by a sensor, and the decrease in light detection compared against the bacterial density inside the tube. Naturally there should be a linear relationship between the amount of light blocked by the bacteria density and density of bacteria.
 
-Cyanobacteria are photosynthetic and not only absorb light at most of the visible spectrum, but also release a photon in a phenomena called epifluoresence. Because I only have a simple light sensor that detects a broad range of light, the chosen wavelength of light must not be in the photosynthetically active range. Hence the standard wavelength to measure cyanobacterial turbidity is 780 nm because it is near infrared and cannot be absorbed by photosynthetic pigments. I opted to use a 780 nm laser diode because simple LEDs have too broad of a wavelength distribution that bleed into the photosynthetic range. The optical sensor I chose is the [TSL2951](https://cdn-shop.adafruit.com/datasheets/TSL25911_Datasheet_EN_v1.pdf) from adafruit to make things easy for myself. It uses i2c addressing to control and comes with a nice [circuit_python](https://circuitpython.org/) library to make coding easy.
+Cyanobacteria are photosynthetic and not only absorb light at most of the visible spectrum, but also release a photon in a phenomena called epifluoresence. Because I only have a simple light sensor that detects a broad range of light, the chosen wavelength of light must not be in the photosynthetically active range. Hence the standard wavelength to measure cyanobacterial turbidity is 780 nm because it is near infrared and cannot be absorbed by photosynthetic pigments. I opted to use a 780 nm laser diode because simple LEDs have too broad of a wavelength distribution that bleed into the photosynthetic range. The optical sensor I chose is the [TSL2591](https://cdn-shop.adafruit.com/datasheets/TSL25911_Datasheet_EN_v1.pdf) from adafruit to make things easy for myself. It uses i2c addressing to control and comes with a nice [circuit_python](https://circuitpython.org/) library to make coding easy.
 
 ## Multiplexing sensors
 
@@ -44,13 +44,13 @@ Because the turbidostat will have at least 6 independent bioreactor vessels, I n
 
 ## Part List
 - [M4 Metro Express Featherwing](https://www.adafruit.com/product/3857)
-- [TSL2951](https://www.adafruit.com/product/1980)
+- [TSL2591](https://www.adafruit.com/product/1980)
 - [TCA9548A](https://www.adafruit.com/product/2717)
 - 780 nm laser diode
 
 ## Code Depedencies 
 - Circuit Python and Circuit Python libraries
-  - TSL2951
+  - TSL2591
   - TCA9548A
  
 - PySerial

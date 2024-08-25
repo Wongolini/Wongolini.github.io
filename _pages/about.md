@@ -64,3 +64,20 @@ Scientific academic research is primarily publically funded in the spirit of inc
 <img src="/images/outreach_1.jpg" hspace="10" align="right" height="200" width="250">
 I am passionate about education and exposure to STEM for the youth. The Baltimore school system is very diverse, with ~54% identifying as an underrepresented minority in the academic setting. I work with [BioEYES](https://www.bioeyes.org/jhu) scientific outreach group and [BUGGS](https://bugssonline.org/parent-student/at-home-microbiology/) citizen science project to teach about the unseen roles bacteria fulfill in our ecosystems in K-12 public schools. 
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Embed Example</title>
+</head>
+<body>
+    <h1>My Video</h1>
+    <video width="600" controls>
+        <source src="/images/multi_plex_TSL2951.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>
+

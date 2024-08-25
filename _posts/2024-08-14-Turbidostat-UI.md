@@ -14,7 +14,7 @@ It would be nice to be able to see the data of the bioreactor in real time, and 
 
 I've coded the export button to generate a dash interactive plotly server in case something interesting happens in the experiment.
 
-![image](/images/gui_call_server.png.png)
+![image](/images/gui_call_server.png)
 
 
 ![image](/images/export_plots_plotly_server.png)

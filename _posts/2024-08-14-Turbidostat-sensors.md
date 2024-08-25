@@ -21,7 +21,7 @@ $$
     <img src="/images/OD_drawing.png" >
 </div>
 
-< br/> 
+<br /> 
 
 Optical density measurements are crucial to measuring bacterial growth. These measurements are made by shooting light at a specific wavelength, typically 600 nm, through the test tube that the bacteria cannot absorb, but diffract and scatter resulting in decreased detectable transmission from an optical sensor on the other end of the tube. Naturally there should be a linear relationship between the amount of light blocked by the bacteria cells.
 

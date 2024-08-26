@@ -53,8 +53,6 @@ I acquired a double bachelors in Microbiology and Mathematics - Applied Sciences
 <span style="color: #16537e; font-family: Optima; font-size: 1.5em; font-weight: bold"> Broader impacts</span>
 =====
 
-
-<span style="color: #000000; font-family: Optima; font-size: 1.5em; font-weight: bold"> Scientific Advocacy</span>
 <a href="https://wongolini.github.io/posts/2024-03-01-AIBS-Congressional-Visit" style="color: #000000; font-family: Optima; font-size: 1.5em; font-weight: bold;">Scientific Advocacy</a>
 
 <img src="/images/IMG_3178.png" hspace="10" align="left" height="200" width="250">

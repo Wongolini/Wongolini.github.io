@@ -71,6 +71,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Morgan Fellowship, Johns Hopkins University
+* Undergraduate Research Award, University of California San Diego
+* Physical Sciences Research Award, University of California San Diego

@@ -1,7 +1,7 @@
 ---
 title: 'Congressional Visit Scientific Advocacy'
 date: 2024-03-01
-permalink: /posts/2024-03-01-AIBS-Congressional-Visit.md
+permalink: /posts/2024-03-01-AIBS-Congressional-Visit
 tags:
   - Congress
   - NSF Funding

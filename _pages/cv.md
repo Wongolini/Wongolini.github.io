@@ -18,10 +18,6 @@ Education
 
 Work experience
 ======
-* Spring 2021: Teaching Assistant BIMM121
-  * University of California San Diego
-  * Duties includes: Lecture guidance, lab instruction
-  * Supervisor: Dr. Jake Minich PhD
 
 * Fall 2020: Research Assistant I
   * Sanford Burnham Prebys

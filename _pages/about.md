@@ -40,8 +40,7 @@ Currently, I am studying cyanobacteria _Syneccochus elongatus_ as a model organi
 Current prediction models do not incorporate the fundemental biology of these photosynthetic microbes. My project aims to link the evolved biological response of cyanobacteria to their environment to improve prediction models. To understand how microbial communities react to climate change and pollution, we must first understand the natural physical context in which these organisms evolved to accomodate. 
 
 
-![image](/images/world_chlorophyll.jpg)(https://worldview.earthdata.nasa.gov/?v=-163.33427310895922,-1.7392935128989109,-22.94465691749639,89.92851161808943&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OCI_PACE_Chlorophyll_a,OCI_PACE_True_Color&lg=true&t=2024-05-30-T01%3A15%3A50Z)
-
+[<img src="/images/world_chlorophyll.jpg">](https://worldview.earthdata.nasa.gov/?v=-163.33427310895922,-1.7392935128989109,-22.94465691749639,89.92851161808943&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OCI_PACE_Chlorophyll_a,OCI_PACE_True_Color&lg=true&t=2024-05-30-T01%3A15%3A50Z)
 
 ![image](/images/pacifica_narrow.png)
 

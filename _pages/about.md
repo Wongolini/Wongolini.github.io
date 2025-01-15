@@ -26,7 +26,7 @@ I love the sea. Having lived by an ocean all my life, I care deeply for coastal 
 ![image](/images/lajolla_1.jpg)
 
 
-As a graduate student and researcher, I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal ecosystems. Harmful algal blooms, while natural, are exacerbated by anthropgenic climate warming and eutrophication. My project aims to identify how these organisms can quickly shift their metabolism from dormancy to supporting fast growing populations.
+As a graduate student and researcher, I aim to apply my skills to improve our understanding of oceanographic microbial ecosystems and to communicate this knoweldge to better protect our coastal environments. Harmful algal blooms, while natural, are exacerbated by anthropgenic climate warming and eutrophication. My project aims to identify how these organisms can quickly shift their metabolism from dormancy to supporting fast growing populations.
 
 
 ![image](/images/PXL_20221219_004405648.PORTRAIT.jpg)

@@ -2,7 +2,7 @@
 title: "BIMM 121 Microbiology Lab Teaching Assistant"
 collection: teaching
 type: "Undergraduate lab"
-permalink: 
+permalink: /teaching/2021-spring-teaching-1
 venue: "University of California San Diego"
 date: 2021-03-27 
 location: "San Diego, CA"

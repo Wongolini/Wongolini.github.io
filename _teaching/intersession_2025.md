@@ -2,7 +2,7 @@
 title: "AS.020.129.12.IN25 The Microscopic Secret Society Of Bacteria That Rule The World"
 collection: teaching
 type: "Intersession Course"
-permalink: [/teaching/intersession_2025](https://github.com/Wongolini/Wongolini.github.io/blob/3d9c2a2af50cbd01a08b14b83b1b899ff365ace8/_teaching/intersession_2025.md)
+permalink: /_teaching/intersession_2025.md
 venue: "Johns Hopkins University"
 date: 2025-06-27 
 location: "Baltmore, MD"

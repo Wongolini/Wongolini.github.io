@@ -2,7 +2,7 @@
 title: "AS.020.153 General Biology Lab Teaching Assistant"
 collection: teaching
 type: "Undergraduate Lab"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2023-fall-teaching-2
 venue: "Johns Hopkins University"
 date: 2023-09-01
 location: "Baltimore, MD"

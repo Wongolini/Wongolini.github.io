@@ -2,7 +2,7 @@
 title: "AS.020.315 Biochemistry Project Lab Teaching Assistant"
 collection: teaching
 type: "Undergraduate Lab"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2024-spring-teaching-2
 venue: "Johns Hopkins University"
 date: 2024-01-25
 location: "Baltimore, MD"

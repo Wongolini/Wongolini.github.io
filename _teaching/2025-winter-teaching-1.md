@@ -8,14 +8,4 @@ date: 2025-06-27
 location: "Baltmore, MD"
 ---
 
-Designed and taught a course on microbial ecology focusing on bacteriology. Students learned about bacteria physiology and 
-important quantitative ecological concepts such as:
-
-
-Students also learned about current topics in bacteriology such as:
-
-
-Combined these topics were applied to microbial systems in fermented products, the guts of animals, human vaginal microbiome, The Built Environment, 
-co-evolution of human microbiome during the Neolithic revolution, and lastly global ecology with major biogeochemical cycles in the oceans and land.
-
-
+This course will teach about microbial ecology and evolution with topics ranging from human health to global ecology. Learn about how microbes have evolved to live and shape in their environments and the impacts they have on all orders of life. Gain an understanding of how anthropogenic driven climate change, industrialization and urbanization is changing the microbial environment and its effect on public health. There will be an emphasis on exposure to bacteriology research at Johns Hopkins, greater Maryland area and beyond from a seminar series of guest lectures. 

@@ -7,6 +7,7 @@ venue: "Johns Hopkins University"
 date: 2025-06-27 
 location: "Baltmore, MD"
 ---
+
 Designed and taught a course on microbial ecology focusing on bacteriology. Students learned about bacteria physiology and 
 important quantitative ecological concepts such as:
   - Hutchinson Niche Theory

@@ -4,7 +4,7 @@ collection: teaching
 type: "Intersession Course"
 permalink: /teaching/2025-winter-teaching-1
 venue: "Johns Hopkins University"
-date: 2025-06-27 
+date: 2025-01-02 
 location: "Baltmore, MD"
 ---
 

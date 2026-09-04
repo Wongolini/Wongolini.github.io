@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AIBS Algal Bloom Handout"
+excerpt: "Advocacy to increase NSF funding for environmental research and conservation"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<object data="/files/AIBS_handout.pdf" width="1500" height="2000" type='application/pdf'></object>

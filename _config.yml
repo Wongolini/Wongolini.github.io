@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-2083-5879"
   semantic         : # URL
-  pubmed           : " https://www.ncbi.nlm.nih.gov/myncbi/nicholas.wong.3/bibliography/public/"
-  researchgate     : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/"
+  researchgate     : "https://www.researchgate.net/profile/Nicholas-Wong-42"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
